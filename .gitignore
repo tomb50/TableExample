@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/TableExampleLang/classes_gen/
+/languages/TableExampleLang/generator/classes_gen/
